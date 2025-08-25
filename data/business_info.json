@@ -1,0 +1,19 @@
+{
+    "location": "Westlands, Nairobi - next to Sarit Centre",
+    "hours": {
+        "Monday-Saturday": "8:00 AM - 6:00 PM",
+        "Sunday": "Closed"
+    },
+    "services": [
+        "New car sales",
+        "Used car sales",
+        "Car servicing",
+        "Test drives",
+        "Financing assistance"
+    ],
+    "contact": {
+        "phone": "+254712345678",
+        "email": "info@cardealership.co.ke",
+        "website": "https://www.cardealership.co.ke"
+    }
+}

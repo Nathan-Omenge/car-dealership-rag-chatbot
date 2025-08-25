@@ -1,0 +1,202 @@
+question,category,intent,source,language,complexity,collection_date
+What's the fuel consumption of this car?,vehicle_information,get_fuel_info,comprehensive_automotive,english,medium,2025-08-04
+Does this car come in automatic transmission?,vehicle_information,get_transmission_info,comprehensive_automotive,english,medium,2025-08-04
+What engine size does this vehicle have?,vehicle_information,get_engine_info,comprehensive_automotive,english,medium,2025-08-04
+How many cylinders does this car have?,vehicle_information,get_engine_info,comprehensive_automotive,english,medium,2025-08-04
+What safety features are included?,vehicle_information,get_safety_info,comprehensive_automotive,english,medium,2025-08-04
+Is this available in manual transmission?,vehicle_information,get_transmission_info,comprehensive_automotive,english,medium,2025-08-04
+What's the ground clearance?,vehicle_information,vehicle_information_general,comprehensive_automotive,english,simple,2025-08-04
+Does this car have air conditioning?,vehicle_information,vehicle_information_general,comprehensive_automotive,english,medium,2025-08-04
+What's the seating capacity?,vehicle_information,vehicle_information_general,comprehensive_automotive,english,simple,2025-08-04
+Is this front-wheel or all-wheel drive?,vehicle_information,vehicle_information_general,comprehensive_automotive,english,medium,2025-08-04
+What's the horsepower of this engine?,vehicle_information,get_engine_info,comprehensive_automotive,english,medium,2025-08-04
+What type of brakes does it have?,vehicle_information,get_safety_info,comprehensive_automotive,english,medium,2025-08-04
+Does it have cruise control?,vehicle_information,vehicle_information_general,comprehensive_automotive,english,medium,2025-08-04
+Is there a sunroof available?,vehicle_information,vehicle_information_general,comprehensive_automotive,english,medium,2025-08-04
+What entertainment system does it have?,vehicle_information,vehicle_information_general,comprehensive_automotive,english,medium,2025-08-04
+Does it have parking sensors?,vehicle_information,vehicle_information_general,comprehensive_automotive,english,medium,2025-08-04
+What's the cargo space like?,vehicle_information,vehicle_information_general,comprehensive_automotive,english,medium,2025-08-04
+Is there a spare tire included?,vehicle_information,vehicle_information_general,comprehensive_automotive,english,medium,2025-08-04
+What's the warranty on this vehicle?,vehicle_information,get_reliability_warranty,comprehensive_automotive,english,medium,2025-08-04
+How reliable is this car model?,vehicle_information,get_reliability_warranty,comprehensive_automotive,english,medium,2025-08-04
+How fast can this car go?,vehicle_information,vehicle_information_general,comprehensive_automotive,english,medium,2025-08-04
+What's the acceleration like?,vehicle_information,vehicle_information_general,comprehensive_automotive,english,simple,2025-08-04
+Does it have good handling?,vehicle_information,vehicle_information_general,comprehensive_automotive,english,medium,2025-08-04
+What's the towing capacity?,vehicle_information,vehicle_information_general,comprehensive_automotive,english,simple,2025-08-04
+Is it good for long distance driving?,vehicle_information,vehicle_information_general,comprehensive_automotive,english,medium,2025-08-04
+How comfortable are the seats?,vehicle_information,vehicle_information_general,comprehensive_automotive,english,medium,2025-08-04
+What's the build quality like?,vehicle_information,vehicle_information_general,comprehensive_automotive,english,medium,2025-08-04
+Does it have anti-lock brakes?,vehicle_information,get_safety_info,comprehensive_automotive,english,medium,2025-08-04
+Are there airbags?,vehicle_information,get_safety_info,comprehensive_automotive,english,simple,2025-08-04
+What's the crash test rating?,vehicle_information,vehicle_information_general,comprehensive_automotive,english,medium,2025-08-04
+What cars do you have available?,inventory_search,browse_inventory,comprehensive_automotive,english,medium,2025-08-04
+Show me all your vehicles,inventory_search,browse_inventory,comprehensive_automotive,english,medium,2025-08-04
+Do you have any SUVs?,inventory_search,filter_by_body_type,comprehensive_automotive,english,medium,2025-08-04
+What's your cheapest car?,inventory_search,find_cheapest,comprehensive_automotive,english,simple,2025-08-04
+Show me your most expensive vehicles,inventory_search,browse_inventory,comprehensive_automotive,english,medium,2025-08-04
+What automatic cars do you have?,inventory_search,inventory_search_general,comprehensive_automotive,english,medium,2025-08-04
+Do you have any manual transmission cars?,inventory_search,inventory_search_general,comprehensive_automotive,english,medium,2025-08-04
+Show me fuel-efficient cars,inventory_search,browse_inventory,comprehensive_automotive,english,simple,2025-08-04
+What's the newest model you have?,inventory_search,inventory_search_general,comprehensive_automotive,english,medium,2025-08-04
+Do you have any used cars?,inventory_search,inventory_search_general,comprehensive_automotive,english,medium,2025-08-04
+"Show me cars under $20,000",inventory_search,browse_inventory,comprehensive_automotive,english,medium,2025-08-04
+Do you have any 2024 models?,inventory_search,inventory_search_general,comprehensive_automotive,english,medium,2025-08-04
+What diesel vehicles do you have?,inventory_search,filter_by_fuel_type,comprehensive_automotive,english,medium,2025-08-04
+Do you have any hybrid cars?,inventory_search,filter_by_fuel_type,comprehensive_automotive,english,medium,2025-08-04
+Show me electric vehicles,inventory_search,browse_inventory,comprehensive_automotive,english,simple,2025-08-04
+What pickup trucks are available?,inventory_search,browse_inventory,comprehensive_automotive,english,medium,2025-08-04
+Do you have any convertibles?,inventory_search,filter_by_body_type,comprehensive_automotive,english,medium,2025-08-04
+Show me 7-seater vehicles,inventory_search,browse_inventory,comprehensive_automotive,english,simple,2025-08-04
+What compact cars do you have?,inventory_search,inventory_search_general,comprehensive_automotive,english,medium,2025-08-04
+Do you have any sports cars?,inventory_search,inventory_search_general,comprehensive_automotive,english,medium,2025-08-04
+Show me cars with low mileage,inventory_search,browse_inventory,comprehensive_automotive,english,medium,2025-08-04
+Do you have any luxury vehicles?,inventory_search,inventory_search_general,comprehensive_automotive,english,medium,2025-08-04
+What reliable brands do you carry?,inventory_search,inventory_search_general,comprehensive_automotive,english,medium,2025-08-04
+Show me cars with good safety ratings,inventory_search,browse_inventory,comprehensive_automotive,english,medium,2025-08-04
+Do you have any certified pre-owned vehicles?,inventory_search,inventory_search_general,comprehensive_automotive,english,medium,2025-08-04
+What's your most popular model?,inventory_search,inventory_search_general,comprehensive_automotive,english,medium,2025-08-04
+Show me family-friendly cars,inventory_search,browse_inventory,comprehensive_automotive,english,simple,2025-08-04
+Do you have any business vehicles?,inventory_search,inventory_search_general,comprehensive_automotive,english,medium,2025-08-04
+What cars are good for first-time buyers?,inventory_search,inventory_search_general,comprehensive_automotive,english,medium,2025-08-04
+Show me cars with best resale value,inventory_search,browse_inventory,comprehensive_automotive,english,medium,2025-08-04
+How much does this car cost?,pricing_financing,get_price,comprehensive_automotive,english,medium,2025-08-04
+What's your price range?,pricing_financing,get_price,comprehensive_automotive,english,simple,2025-08-04
+Can you give me a quote?,pricing_financing,get_price,comprehensive_automotive,english,medium,2025-08-04
+Are your prices negotiable?,pricing_financing,get_price,comprehensive_automotive,english,simple,2025-08-04
+Do you offer any discounts?,pricing_financing,pricing_financing_general,comprehensive_automotive,english,medium,2025-08-04
+What's included in the price?,pricing_financing,get_price,comprehensive_automotive,english,medium,2025-08-04
+Are there any additional fees?,pricing_financing,pricing_financing_general,comprehensive_automotive,english,medium,2025-08-04
+What's the total cost?,pricing_financing,get_price,comprehensive_automotive,english,simple,2025-08-04
+Can you price match?,pricing_financing,get_price,comprehensive_automotive,english,simple,2025-08-04
+What's your best price?,pricing_financing,get_price,comprehensive_automotive,english,simple,2025-08-04
+Do you offer financing?,pricing_financing,get_financing_info,comprehensive_automotive,english,simple,2025-08-04
+What are your payment options?,pricing_financing,get_financing_info,comprehensive_automotive,english,medium,2025-08-04
+Can I pay in installments?,pricing_financing,get_financing_info,comprehensive_automotive,english,medium,2025-08-04
+What's the minimum down payment?,pricing_financing,get_financing_info,comprehensive_automotive,english,medium,2025-08-04
+What interest rates do you offer?,pricing_financing,pricing_financing_general,comprehensive_automotive,english,medium,2025-08-04
+What's the monthly payment?,pricing_financing,get_financing_info,comprehensive_automotive,english,simple,2025-08-04
+How long can I finance for?,pricing_financing,pricing_financing_general,comprehensive_automotive,english,medium,2025-08-04
+Do you work with banks?,pricing_financing,pricing_financing_general,comprehensive_automotive,english,medium,2025-08-04
+Can I get pre-approved?,pricing_financing,pricing_financing_general,comprehensive_automotive,english,simple,2025-08-04
+What credit score do I need?,pricing_financing,pricing_financing_general,comprehensive_automotive,english,medium,2025-08-04
+Do you accept trade-ins?,pricing_financing,get_trade_info,comprehensive_automotive,english,simple,2025-08-04
+How much is my car worth as trade?,pricing_financing,get_price,comprehensive_automotive,english,medium,2025-08-04
+Can I exchange my current car?,pricing_financing,get_trade_info,comprehensive_automotive,english,medium,2025-08-04
+Do you buy cars outright?,pricing_financing,pricing_financing_general,comprehensive_automotive,english,medium,2025-08-04
+What condition does my trade need to be?,pricing_financing,get_trade_info,comprehensive_automotive,english,medium,2025-08-04
+How do you value trade-ins?,pricing_financing,get_trade_info,comprehensive_automotive,english,medium,2025-08-04
+Can trade-in be my down payment?,pricing_financing,get_financing_info,comprehensive_automotive,english,medium,2025-08-04
+Do you inspect trade-in vehicles?,pricing_financing,get_trade_info,comprehensive_automotive,english,medium,2025-08-04
+What documents do I need for trade?,pricing_financing,get_trade_info,comprehensive_automotive,english,medium,2025-08-04
+Can I trade a financed car?,pricing_financing,get_trade_info,comprehensive_automotive,english,medium,2025-08-04
+What are your business hours?,customer_support,get_hours,comprehensive_automotive,english,medium,2025-08-04
+Where are you located?,customer_support,get_location,comprehensive_automotive,english,simple,2025-08-04
+How can I contact you?,customer_support,get_contact,comprehensive_automotive,english,medium,2025-08-04
+What's your phone number?,customer_support,get_contact,comprehensive_automotive,english,simple,2025-08-04
+Do you have a website?,customer_support,get_contact,comprehensive_automotive,english,medium,2025-08-04
+Are you open on weekends?,customer_support,get_hours,comprehensive_automotive,english,medium,2025-08-04
+Do you have multiple locations?,customer_support,get_location,comprehensive_automotive,english,medium,2025-08-04
+How do I get directions to your place?,customer_support,get_location,comprehensive_automotive,english,medium,2025-08-04
+What's your email address?,customer_support,get_location,comprehensive_automotive,english,simple,2025-08-04
+Are you on social media?,customer_support,customer_support_general,comprehensive_automotive,english,medium,2025-08-04
+Can I schedule a test drive?,customer_support,schedule_service,comprehensive_automotive,english,medium,2025-08-04
+Do you provide vehicle inspection?,customer_support,customer_support_general,comprehensive_automotive,english,medium,2025-08-04
+Do you offer delivery service?,customer_support,customer_support_general,comprehensive_automotive,english,medium,2025-08-04
+Can you help with registration?,customer_support,customer_support_general,comprehensive_automotive,english,medium,2025-08-04
+Do you provide insurance assistance?,customer_support,customer_support_general,comprehensive_automotive,english,medium,2025-08-04
+Do you have a service center?,customer_support,customer_support_general,comprehensive_automotive,english,medium,2025-08-04
+Do you offer maintenance services?,customer_support,customer_support_general,comprehensive_automotive,english,medium,2025-08-04
+Can you help with paperwork?,customer_support,customer_support_general,comprehensive_automotive,english,medium,2025-08-04
+Do you provide roadside assistance?,customer_support,customer_support_general,comprehensive_automotive,english,medium,2025-08-04
+What warranty do you offer?,customer_support,customer_support_general,comprehensive_automotive,english,medium,2025-08-04
+What's your return policy?,customer_support,customer_support_general,comprehensive_automotive,english,simple,2025-08-04
+How long does the buying process take?,customer_support,customer_support_general,comprehensive_automotive,english,medium,2025-08-04
+What documents do I need?,customer_support,customer_support_general,comprehensive_automotive,english,medium,2025-08-04
+Can I reserve a vehicle?,customer_support,customer_support_general,comprehensive_automotive,english,medium,2025-08-04
+How do I schedule an appointment?,customer_support,schedule_service,comprehensive_automotive,english,medium,2025-08-04
+What's your inspection process?,customer_support,customer_support_general,comprehensive_automotive,english,simple,2025-08-04
+Do you provide vehicle history reports?,customer_support,customer_support_general,comprehensive_automotive,english,medium,2025-08-04
+Can I bring my mechanic to inspect?,customer_support,customer_support_general,comprehensive_automotive,english,medium,2025-08-04
+What happens after I buy?,customer_support,customer_support_general,comprehensive_automotive,english,medium,2025-08-04
+Do you follow up with customers?,customer_support,customer_support_general,comprehensive_automotive,english,medium,2025-08-04
+What cars are best for rough roads?,african_context,get_terrain_advice,comprehensive_automotive,english,medium,2025-08-04
+Do you have vehicles with high ground clearance?,african_context,get_terrain_advice,comprehensive_automotive,english,medium,2025-08-04
+Which cars handle unpaved roads well?,african_context,get_terrain_advice,comprehensive_automotive,english,medium,2025-08-04
+What's good for both city and rural driving?,african_context,african_context_general,comprehensive_automotive,english,medium,2025-08-04
+Do you have cars suitable for dusty conditions?,african_context,african_context_general,comprehensive_automotive,english,medium,2025-08-04
+Which vehicles work well in hot climates?,african_context,african_context_general,comprehensive_automotive,english,medium,2025-08-04
+What cars are reliable in remote areas?,african_context,african_context_general,comprehensive_automotive,english,medium,2025-08-04
+Do you have sturdy vehicles for tough terrain?,african_context,get_terrain_advice,comprehensive_automotive,english,medium,2025-08-04
+Which cars have good suspension for bad roads?,african_context,african_context_general,comprehensive_automotive,english,medium,2025-08-04
+What vehicles handle flooding well?,african_context,african_context_general,comprehensive_automotive,english,medium,2025-08-04
+What's the most economical car to run?,african_context,african_context_general,comprehensive_automotive,english,medium,2025-08-04
+Do you have vehicles good for business use?,african_context,get_business_advice,comprehensive_automotive,english,medium,2025-08-04
+What's best for commercial purposes?,african_context,get_business_advice,comprehensive_automotive,english,medium,2025-08-04
+Do you have pickup trucks for small business?,african_context,get_business_advice,comprehensive_automotive,english,medium,2025-08-04
+What cars are suitable for taxi business?,african_context,get_business_advice,comprehensive_automotive,english,medium,2025-08-04
+Do you have vehicles for delivery services?,african_context,get_business_advice,comprehensive_automotive,english,medium,2025-08-04
+What's the cheapest to maintain?,african_context,african_context_general,comprehensive_automotive,english,medium,2025-08-04
+Do you offer flexible payment plans?,african_context,african_context_general,comprehensive_automotive,english,medium,2025-08-04
+Can you work with local financing?,african_context,african_context_general,comprehensive_automotive,english,medium,2025-08-04
+What has the best resale value here?,african_context,african_context_general,comprehensive_automotive,english,medium,2025-08-04
+Do you help with import documentation?,african_context,african_context_general,comprehensive_automotive,english,medium,2025-08-04
+Can you assist with customs procedures?,african_context,african_context_general,comprehensive_automotive,english,medium,2025-08-04
+What about spare parts availability?,african_context,get_support_info,comprehensive_automotive,english,medium,2025-08-04
+Do you train local mechanics?,african_context,get_support_info,comprehensive_automotive,english,medium,2025-08-04
+Can you recommend service centers?,african_context,get_support_info,comprehensive_automotive,english,medium,2025-08-04
+Do you provide ongoing support?,african_context,african_context_general,comprehensive_automotive,english,medium,2025-08-04
+What's your parts warranty?,african_context,get_support_info,comprehensive_automotive,english,simple,2025-08-04
+Can you deliver to rural areas?,african_context,african_context_general,comprehensive_automotive,english,medium,2025-08-04
+Do you have mobile service units?,african_context,get_support_info,comprehensive_automotive,english,medium,2025-08-04
+What technical support do you offer?,african_context,african_context_general,comprehensive_automotive,english,medium,2025-08-04
+Hello,greeting_closing,greeting,comprehensive_automotive,english,simple,2025-08-04
+Hi there,greeting_closing,greeting,comprehensive_automotive,english,simple,2025-08-04
+Good morning,greeting_closing,greeting,comprehensive_automotive,english,simple,2025-08-04
+Good afternoon,greeting_closing,greeting,comprehensive_automotive,english,simple,2025-08-04
+Good evening,greeting_closing,greeting,comprehensive_automotive,english,simple,2025-08-04
+Hey,greeting_closing,greeting,comprehensive_automotive,english,simple,2025-08-04
+"Hello, I'm looking for a car",greeting_closing,greeting,comprehensive_automotive,english,medium,2025-08-04
+"Hi, I need help choosing a vehicle",greeting_closing,greeting,comprehensive_automotive,english,medium,2025-08-04
+"Good day, what cars do you have?",greeting_closing,greeting,comprehensive_automotive,english,medium,2025-08-04
+I'm interested in buying a car,greeting_closing,greeting_closing_general,comprehensive_automotive,english,medium,2025-08-04
+Can you help me find a car?,greeting_closing,greeting_closing_general,comprehensive_automotive,english,medium,2025-08-04
+I'm shopping for a vehicle,greeting_closing,greeting,comprehensive_automotive,english,medium,2025-08-04
+Thank you,greeting_closing,closing,comprehensive_automotive,english,simple,2025-08-04
+Thanks for your help,greeting_closing,closing,comprehensive_automotive,english,simple,2025-08-04
+That's all I needed,greeting_closing,greeting_closing_general,comprehensive_automotive,english,simple,2025-08-04
+"Great, thanks",greeting_closing,closing,comprehensive_automotive,english,simple,2025-08-04
+I'll think about it,greeting_closing,greeting,comprehensive_automotive,english,simple,2025-08-04
+Can I get back to you?,greeting_closing,greeting_closing_general,comprehensive_automotive,english,medium,2025-08-04
+I need to discuss with my family,greeting_closing,greeting_closing_general,comprehensive_automotive,english,medium,2025-08-04
+Let me consider my options,greeting_closing,greeting_closing_general,comprehensive_automotive,english,medium,2025-08-04
+I'll be in touch,greeting_closing,greeting_closing_general,comprehensive_automotive,english,simple,2025-08-04
+Goodbye,greeting_closing,greeting,comprehensive_automotive,english,simple,2025-08-04
+See you later,greeting_closing,greeting_closing_general,comprehensive_automotive,english,simple,2025-08-04
+Have a good day,greeting_closing,greeting,comprehensive_automotive,english,simple,2025-08-04
+Thanks for your time,greeting_closing,closing,comprehensive_automotive,english,simple,2025-08-04
+I appreciate your help,greeting_closing,greeting_closing_general,comprehensive_automotive,english,simple,2025-08-04
+I don't understand,clarification,request_clarification,comprehensive_automotive,english,simple,2025-08-04
+Can you explain that again?,clarification,request_clarification,comprehensive_automotive,english,medium,2025-08-04
+What do you mean?,clarification,clarification_general,comprehensive_automotive,english,simple,2025-08-04
+Can you be more specific?,clarification,clarification_general,comprehensive_automotive,english,medium,2025-08-04
+I'm confused,clarification,request_clarification,comprehensive_automotive,english,simple,2025-08-04
+Can you help me?,clarification,request_clarification,comprehensive_automotive,english,simple,2025-08-04
+I'm not sure what I'm looking for,clarification,clarification_general,comprehensive_automotive,english,medium,2025-08-04
+Can you recommend something?,clarification,request_recommendation,comprehensive_automotive,english,simple,2025-08-04
+What would you suggest?,clarification,request_recommendation,comprehensive_automotive,english,simple,2025-08-04
+I'm a first-time buyer,clarification,clarification_general,comprehensive_automotive,english,simple,2025-08-04
+I don't know much about cars,clarification,clarification_general,comprehensive_automotive,english,medium,2025-08-04
+Can you simplify that?,clarification,clarification_general,comprehensive_automotive,english,simple,2025-08-04
+What are my options?,clarification,clarification_general,comprehensive_automotive,english,simple,2025-08-04
+How does this work?,clarification,clarification_general,comprehensive_automotive,english,simple,2025-08-04
+Can you walk me through this?,clarification,clarification_general,comprehensive_automotive,english,medium,2025-08-04
+What's your recommendation?,clarification,request_recommendation,comprehensive_automotive,english,simple,2025-08-04
+Which one is better?,clarification,request_recommendation,comprehensive_automotive,english,simple,2025-08-04
+What do you think?,clarification,clarification_general,comprehensive_automotive,english,simple,2025-08-04
+Is this a good choice?,clarification,clarification_general,comprehensive_automotive,english,medium,2025-08-04
+Am I making the right decision?,clarification,clarification_general,comprehensive_automotive,english,medium,2025-08-04
+What would most people choose?,clarification,clarification_general,comprehensive_automotive,english,medium,2025-08-04
+Is this reliable?,clarification,clarification_general,comprehensive_automotive,english,simple,2025-08-04
+Will this meet my needs?,clarification,clarification_general,comprehensive_automotive,english,medium,2025-08-04
+Is this worth the price?,clarification,clarification_general,comprehensive_automotive,english,medium,2025-08-04
+Should I wait for a better deal?,clarification,request_recommendation,comprehensive_automotive,english,medium,2025-08-04
