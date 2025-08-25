@@ -149,7 +149,7 @@ See `poster.pdf` for a one-page summary of the RAG architecture, dataset pipelin
 ---
 
 ##  Authors
-- Nathan Omenge
+- Nathan Orang'o Omenge
 - Collins Gitau
 - Leona Kamau
 - Mark Mayana
