@@ -148,16 +148,6 @@ See `poster.pdf` for a one-page summary of the RAG architecture, dataset pipelin
 
 ---
 
-##  Authors
-- Nathan Orang'o Omenge
-- Collins Gitau
-- Leona Kamau
-- Mark Mayana
-
-United States International University – Africa
-
----
-
 ##  License
 This project is licensed under the MIT License.
 
